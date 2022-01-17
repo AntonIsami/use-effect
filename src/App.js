@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="App">
       <h1>Welcome back to the art Museum</h1>
-
+      <h2> heyo</h2>
       <form onSubmit={ handleSubmit }>
         <label htmlFor='search'>Search for Art</label>
         <input type="text" id="search" 
